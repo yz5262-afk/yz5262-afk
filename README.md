@@ -3,7 +3,7 @@
 ### Quantitative research · Optimization · Machine learning
 
 I build research tools that make models inspectable: from Monte Carlo risk surfaces
-and integer dynamic programs to causal attention and dependence-aware statistics.
+and integer dynamic programs to causal attention, game-tree search and dependence-aware statistics.
 
 ## Selected projects
 
@@ -16,6 +16,8 @@ and integer dynamic programs to causal attention and dependence-aware statistics
 | [Transformer Language Lab](https://github.com/yz5262-afk/transformer-language-lab) | PyTorch attention and causal Transformer experiments with reusable modules, tokenization comparisons and prefix-invariance checks. |
 | [Music Sequence Lab](https://github.com/yz5262-afk/music-sequence-lab) | RNN/LSTM symbolic music experiments with song-level splits, repetition-aware sampling and MIDI export. |
 | [Statistical Learning Lab](https://github.com/yz5262-afk/statistical-learning-lab) | Ridge and kernel-ridge experiments with regularization selection, fold-local preprocessing and reproducible synthetic comparisons. |
+| [Akuna Market Making Lab](https://github.com/yz5262-afk/akuna-market-making-lab) | Competition-derived binary-options market making with parameter estimation, Monte Carlo probabilities, inventory-aware quotes and FOK risk gates. |
+| [Hexapawn Search Lab](https://github.com/yz5262-afk/hexapawn-search-lab) | Java Hexapawn with depth-limited expected-outcome search, seeded AI matches and independent checks across reachable game states. |
 
 ## Research approach
 
@@ -27,4 +29,4 @@ The repositories include independent research, coursework-derived implementation
 and contributions to collaborative workflows. Each project describes its provenance,
 what was verified and what still depends on external data or longer training runs.
 
-**Tools:** Python · NumPy · SciPy · pandas · PyTorch · scikit-learn · Streamlit
+**Tools:** Python · Java · NumPy · SciPy · pandas · PyTorch · scikit-learn · Streamlit
